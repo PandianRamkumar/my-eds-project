@@ -1,2 +1,5 @@
 mountpoints:
-  /: https://drive.google.com/drive/folders/1MSDaa1A34-gTTVcgkQw7VFUfZjZYzu33
+  /:
+    url: "https://author-p175155-e1858581.adobeaemcloud.com/bin/franklin.delivery/PandianRamkumar/my-eds-project/main"
+    type: "markup"
+    suffix: ".html"
